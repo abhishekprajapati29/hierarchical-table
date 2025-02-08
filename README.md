@@ -4,7 +4,7 @@
 
 A simple hierarchical table application built using ReactJS. The application allows users to dynamically update values in a table with a parent-child hierarchy. Changes to the table reflect real-time updates for parents and children, along with variance calculations.
 
-<a href="https://assign-project.onrender.com/"><strong>➥ Project Live</strong></a>
+<a href="http://abhishekprajapati29.github.io/hierarchical-table"><strong>➥ Project Live</strong></a>
 
 </div>
 
